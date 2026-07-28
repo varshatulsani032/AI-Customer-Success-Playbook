@@ -161,7 +161,23 @@ Add examples, screenshots, and company-specific details
 ↓
 
 Publish and maintain documentation
+---
 
+# 🌍 Real-World Example
+
+### Scenario
+
+A support team notices that multiple customers are asking the same question about setting up a new feature.
+
+Instead of answering the same question individually each time, I would use AI to organize the first draft of a knowledge base article.
+
+The AI-generated draft helps structure the content into clear sections, identify missing steps, and suggest customer-friendly language. I then review the article for accuracy, add product-specific details, include screenshots where appropriate, and publish the final version.
+
+### Outcome
+
+Instead of repeatedly answering the same question, the team now has a reusable resource that customers can access whenever they need it.
+
+This improves consistency, supports customer self-service, and allows Customer Success teams to spend more time on higher-value conversations.
 ---
 
 # Key Takeaway
