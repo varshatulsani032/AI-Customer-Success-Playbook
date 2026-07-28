@@ -161,7 +161,6 @@ Add examples, screenshots, and company-specific details
 ↓
 
 Publish and maintain documentation
----
 
 # 🌍 Real-World Example
 
@@ -179,7 +178,6 @@ Instead of repeatedly answering the same question, the team now has a reusable r
 
 This improves consistency, supports customer self-service, and allows Customer Success teams to spend more time on higher-value conversations.
 ---
-
 # Key Takeaway
 
 Good documentation reduces friction, builds customer confidence, and creates consistency across teams.
