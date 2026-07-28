@@ -7,11 +7,9 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)
 
 # 🤖 AI Customer Success Playbook
-Practical AI prompts, workflows, and templates for modern Customer Success teams.
+Practical AI prompts, workflows, and templates designed to help Customer Success professionals streamline documentation, improve communication, and build repeatable customer-centric processes.
 
-A practical collection of AI prompts, workflows, and templates designed to help Customer Success professionals improve documentation, communication, onboarding, and customer operations.
-
-This repository demonstrates how AI can support Customer Success teams by accelerating repetitive tasks while keeping human judgment, empathy, and customer relationships at the center of every decision.
+This repository demonstrates how AI can support Customer Success teams by reducing repetitive work while keeping human judgment, empathy, and customer relationships at the center of every decision.
 
 ---
 
