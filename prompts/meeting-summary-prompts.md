@@ -128,6 +128,34 @@ Track follow-up actions
 
 ---
 
+# 🌍 Real-World Example
+
+### Scenario
+
+A customer onboarding meeting covers product setup, implementation timelines, risks, and several action items involving different stakeholders.
+
+Instead of manually organizing scattered notes, I use AI to structure the discussion into a concise meeting summary with clear owners, deadlines, and next steps.
+
+After reviewing and refining the content, I share the summary with both the customer and internal teams.
+
+### Outcome
+
+Everyone leaves with the same understanding of what was discussed, reducing confusion and improving accountability throughout the onboarding process.
+
+---
+
+# 💬 Lessons Learned
+
+The value of meeting notes isn't in recording every conversation.
+
+It's in making sure everyone knows what happens next.
+
+AI helps organize information.
+
+Ownership keeps projects moving forward.
+
+---
+
 # Key Takeaway
 
 AI helps organize conversations.
