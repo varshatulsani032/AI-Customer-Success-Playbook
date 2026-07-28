@@ -1,6 +1,10 @@
 <p align="center">
   <img src="Assets/banner.png.png" alt="AI Customer Success Playbook Banner" width="100%">
 </p>
+![Markdown](https://img.shields.io/badge/Markdown-Documentation-0A66C2?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-Workflow-10B981?style=for-the-badge)
+![Customer Success](https://img.shields.io/badge/Customer%20Success-Playbook-F59E0B?style=for-the-badge)
+![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)
 
 # 🤖 AI Customer Success Playbook
 Practical AI prompts, workflows, and templates for modern Customer Success teams.
