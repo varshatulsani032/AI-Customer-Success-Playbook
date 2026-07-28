@@ -2,7 +2,8 @@
   <img src="Assets/banner.png.png" alt="AI Customer Success Playbook Banner" width="100%">
 </p>
 
-# 🤖 AI for Customer Success
+# 🤖 AI Customer Success Playbook
+Practical AI prompts, workflows, and templates for modern Customer Success teams.
 
 A practical collection of AI prompts, workflows, and templates designed to help Customer Success professionals improve documentation, communication, onboarding, and customer operations.
 
