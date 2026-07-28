@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="AI Customer Success Playbook Banner" width="100%">
+  <img src="Assets/banner.png.png" alt="AI Customer Success Playbook Banner" width="100%">
 </p>
 
 # 🤖 AI-for-Customer-Success
