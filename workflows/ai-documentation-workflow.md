@@ -172,10 +172,12 @@ Update Documentation
 
 ---
 
-# Key Takeaway
+# 🔄 Continuous Improvement
 
-Great documentation empowers customers to solve problems confidently while giving Customer Success teams more time to focus on meaningful conversations.
+Documentation is most valuable when it evolves alongside the product and the people who use it.
 
-AI accelerates the writing process.
+As features change, customer questions emerge, and teams discover better ways of working, documentation should be reviewed and refined regularly. Feedback from customers and internal teams plays an important role in identifying gaps, improving clarity, and ensuring information remains accurate and relevant.
 
-People ensure the quality.
+AI can accelerate updates by organizing information and suggesting improvements, but every revision should be reviewed by subject matter experts before publication.
+
+The goal isn't simply to maintain documentation—it's to create a reliable knowledge base that empowers customers, supports teams, and grows with the organization.
