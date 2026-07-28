@@ -103,4 +103,4 @@ Schedule kickoff
 
 AI helps me prepare faster.
 
-Customer Success comes from understanding the customer—not from generating documents.
+Customer Success comes from understanding the customer- not from generating documents.
