@@ -1,4 +1,4 @@
-# 🤖 AI Customer Success Playbook
+# 🤖 AI-for-Customer-Success
 
 A practical collection of AI prompts, workflows, and templates designed to help Customer Success professionals improve documentation, communication, onboarding, and customer operations.
 
