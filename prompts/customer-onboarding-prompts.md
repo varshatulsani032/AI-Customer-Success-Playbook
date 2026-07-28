@@ -99,6 +99,32 @@ Schedule kickoff
 
 ---
 
+# 🌍 Real-World Example
+
+### Scenario
+
+A new customer is preparing for implementation, but every customer has different goals, timelines, and levels of product familiarity.
+
+Instead of starting from a blank page, I use AI to create a structured onboarding framework that includes milestones, success goals, and recommended follow-up activities.
+
+I then personalize the plan using information gathered during discovery calls and align it with the customer's business objectives.
+
+### Outcome
+
+The result is a more consistent onboarding experience while still keeping every plan tailored to the customer's needs.
+
+Customers receive a clear roadmap, and I can spend more time building relationships instead of formatting documents.
+
+---
+
+# 💬 Lessons Learned
+
+A successful onboarding experience isn't created by a checklist alone.
+
+It's created by understanding what success looks like for each customer.
+
+AI helps me prepare faster, but meaningful conversations are what build trust.
+
 # Key Takeaway
 
 AI helps me prepare faster.
