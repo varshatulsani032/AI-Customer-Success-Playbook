@@ -1,9 +1,18 @@
 <p align="center">
   <img src="Assets/banner.png.png" alt="AI Customer Success Playbook Banner" width="100%">
 </p>
-![Markdown](https://img.shields.io/badge/Markdown-Documentation-0A66C2?style=for-the-badge) ![AI](https://img.shields.io/badge/AI-Workflow-10B981?style=for-the-badge) ![Customer Success](https://img.shields.io/badge/Customer%20Success-Playbook-F59E0B?style=for-the-badge) ![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)
+<div align="center">
 
-# AI Customer Success Playbook
+<img src="YOUR-BANNER-IMAGE" alt="AI Customer Success Playbook">
+
+<p>
+  <img src="https://img.shields.io/badge/Markdown-Documentation-0A66C2?style=for-the-badge" alt="Markdown">
+  <img src="https://img.shields.io/badge/AI-Workflow-10B981?style=for-the-badge" alt="AI">
+  <img src="https://img.shields.io/badge/Customer%20Success-Playbook-F59E0B?style=for-the-badge" alt="Customer Success">
+  <img src="https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge" alt="License: MIT">
+</p>
+
+</div>
 
 # 🤖 AI Customer Success Playbook
 Practical AI prompts, workflows, and templates designed to help Customer Success professionals streamline documentation, improve communication, and build repeatable customer-centric processes.
