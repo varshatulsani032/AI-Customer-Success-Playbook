@@ -2,9 +2,6 @@
   <img src="Assets/banner.png.png" alt="AI Customer Success Playbook Banner" width="100%">
 </p>
 <div align="center">
-
-<img src="YOUR-BANNER-IMAGE" alt="AI Customer Success Playbook">
-
 <p>
   <img src="https://img.shields.io/badge/Markdown-Documentation-0A66C2?style=for-the-badge" alt="Markdown">
   <img src="https://img.shields.io/badge/AI-Workflow-10B981?style=for-the-badge" alt="AI">
